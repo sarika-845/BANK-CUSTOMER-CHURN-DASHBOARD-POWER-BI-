@@ -28,4 +28,4 @@ This Power BI dashboard analyzes customer churn behavior using a fictional banki
 👩‍💻 Author:
 Sarika Mallannagari
 BBA in Business Analytics | Aspiring Data Analyst
-Connect on LinkedIn ()
+Connect on LinkedIn (https://www.linkedin.com/in/sarika-mallannagari-866686361/)
